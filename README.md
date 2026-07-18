@@ -7,3 +7,7 @@
  ## Second Part
 
  ![Result](/src/p2.png)
+
+## Third Part
+
+ ![alt](/src/p3.png)
